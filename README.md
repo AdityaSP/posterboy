@@ -50,7 +50,7 @@
 
 - Clone this repository 
 
-  ``` git clone <repositoryurl> ```
+  ``` git clone https://github.com/AdityaSP/posterboy ```
 
 - cd to this repository
 
